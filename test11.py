@@ -20,5 +20,6 @@ while True :
     if player_choose == "E" :
        break
     else :
-        break        
+        break  
+        print("please choose E or S")
 print("good luck and have fun")
